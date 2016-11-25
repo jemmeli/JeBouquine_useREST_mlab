@@ -12,13 +12,19 @@
 download the project or use git clone command  :
 
 #for the server work on port 8080
+
 >>cd JeBouquine_useREST_mlab server
+
 >>npm install
+
 >>nodemon server.js
 
 #for the Front work on port 3000
+
 >>cd JeBouquine_useREST_mlab
+
 >>npm install
+
 >>npm start 
 
 
